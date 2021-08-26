@@ -2,6 +2,6 @@
 
 $ flex analisador.l
 
-$ gcc lex.yy.c
+$ gcc analisadorLexico.c
 
 $ ./a.out <caminho_arquivo>
