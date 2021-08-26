@@ -7,7 +7,7 @@ int n_lines = 0;
 %}
 
 DIGIT[0-9]
-LETTER[A-Z,a-z]
+LETTER[A-Za-z]
 WHITESPACE[ ]
 
 
