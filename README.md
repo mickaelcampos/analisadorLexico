@@ -18,6 +18,6 @@ ou manualmente com os seguintes comandos:
 
 `$ flex analisador.l`
 
-`$ gcc analisadorLexico.c`
+`$ gcc analisadorLexico.c -o analisadorLexico`
 
-`$ ./a.out <caminho_arquivo>`
+`$ ./analisadorLexico <caminho_arquivo>`
