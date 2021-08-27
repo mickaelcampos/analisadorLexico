@@ -6,4 +6,4 @@ a.out: analisadorLexico.c
 analisadorLexico.c: analisador.l
 	flex analisador.l
 clean:
-	rm -rf *analisadorLexico*
+	rm -rf *analisadorLexico* *.out
